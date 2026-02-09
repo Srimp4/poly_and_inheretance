@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="poly_and_inheretance/poly_and_inheretance.vcxproj" />
+</Solution>
